@@ -5,4 +5,3 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0620-not-boring-movies) |
-<!---LeetCode Topics End-->
