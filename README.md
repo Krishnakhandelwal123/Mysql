@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0394-decode-string) |
 ## Stack
 |  |
@@ -23,6 +24,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0394-decode-string) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0049-group-anagrams) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->uestions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
