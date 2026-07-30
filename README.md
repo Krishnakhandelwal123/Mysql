@@ -58,16 +58,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0700-search-in-a-binary-search-tree) |
 ## Dynamic Programming
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
@@ -90,6 +94,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishnakhandelwal123/Mysql/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->uestions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
