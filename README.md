@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0394-decode-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishnakhandelwal123/Mysql/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishnakhandelwal123/Mysql/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0049-group-anagrams) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishnakhandelwal123/Mysql/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -148,6 +150,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0785-is-graph-bipartite) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishnakhandelwal123/Mysql/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->uestions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
