@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishnakhandelwal123/Mysql/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->uestions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
