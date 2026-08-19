@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0724-find-pivot-index) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Krishnakhandelwal123/Mysql/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0724-find-pivot-index) |
 ## Bucket Sort
 |  |
 | ------- |
