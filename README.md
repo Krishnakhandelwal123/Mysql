@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0053-maximum-subarray) |
 | [0164-maximum-gap](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0238-product-of-array-except-self) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
@@ -175,6 +177,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0164-maximum-gap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->uestions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
