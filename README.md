@@ -46,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0049-group-anagrams) |
+| [0316-remove-duplicate-letters](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0394-decode-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishnakhandelwal123/Mysql/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishnakhandelwal123/Mysql/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0394-decode-string) |
 ## Recursion
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0316-remove-duplicate-letters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishnakhandelwal123/Mysql/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Linked List
 |  |
@@ -194,6 +197,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0215-kth-largest-element-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->uestions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
