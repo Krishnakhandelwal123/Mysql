@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0700-search-in-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Krishnakhandelwal123/Mysql/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0785-is-graph-bipartite) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Krishnakhandelwal123/Mysql/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0700-search-in-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Krishnakhandelwal123/Mysql/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0785-is-graph-bipartite) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Krishnakhandelwal123/Mysql/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
