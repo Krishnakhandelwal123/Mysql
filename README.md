@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0394-decode-string) |
 ## Array
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0206-reverse-linked-list](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
