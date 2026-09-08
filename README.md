@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishnakhandelwal123/Mysql/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3870-count-commas-in-range](https://github.com/Krishnakhandelwal123/Mysql/tree/master/3870-count-commas-in-range) |
 ## Greedy
 |  |
 | ------- |
