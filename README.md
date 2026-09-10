@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0056-merge-intervals) |
+| [0128-longest-consecutive-sequence](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0215-kth-largest-element-in-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishnakhandelwal123/Mysql/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0785-is-graph-bipartite) |
 ## Matrix
