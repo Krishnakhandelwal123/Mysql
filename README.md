@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0724-find-pivot-index) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Krishnakhandelwal123/Mysql/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Krishnakhandelwal123/Mysql/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3903-smallest-stable-index-i](https://github.com/Krishnakhandelwal123/Mysql/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0215-kth-largest-element-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Krishnakhandelwal123/Mysql/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Tree
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Krishnakhandelwal123/Mysql/tree/master/0700-search-in-a-binary-search-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Krishnakhandelwal123/Mysql/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
